@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\10-M\Else if uygulama\Else if uygulama\bin\Debug\Else if uygulama.exe.config
+C:\Users\user\Desktop\10-M\Else if uygulama\Else if uygulama\bin\Debug\Else if uygulama.exe
+C:\Users\user\Desktop\10-M\Else if uygulama\Else if uygulama\bin\Debug\Else if uygulama.pdb
+C:\Users\user\Desktop\10-M\Else if uygulama\Else if uygulama\obj\Debug\Else if uygulama.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\10-M\Else if uygulama\Else if uygulama\obj\Debug\Else_if_uygulama.Form1.resources
+C:\Users\user\Desktop\10-M\Else if uygulama\Else if uygulama\obj\Debug\Else_if_uygulama.Properties.Resources.resources
+C:\Users\user\Desktop\10-M\Else if uygulama\Else if uygulama\obj\Debug\Else if uygulama.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\10-M\Else if uygulama\Else if uygulama\obj\Debug\Else if uygulama.exe
+C:\Users\user\Desktop\10-M\Else if uygulama\Else if uygulama\obj\Debug\Else if uygulama.pdb
